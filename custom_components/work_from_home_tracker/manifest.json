@@ -5,6 +5,6 @@
   "documentation": "https://github.com/yourusername/ha-wfh-tracker",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@yourgithubusername"],
+  "codeowners": ["@bombleadam"],
   "iot_class": "local_polling"
 }
