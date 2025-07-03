@@ -1,0 +1,10 @@
+{
+  "domain": "work_from_home_tracker",
+  "name": "Work From Home Tracker",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/ha-wfh-tracker",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@yourgithubusername"],
+  "iot_class": "local_polling"
+}

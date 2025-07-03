@@ -1,0 +1,8 @@
+{
+  "name": "Work From Home Tracker",
+  "content_in_root": false,
+  "domain": "work_from_home_tracker",
+  "country": "world",
+  "homeassistant": "2024.8.0",
+  "render_readme": true
+}
